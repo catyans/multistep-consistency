@@ -19,7 +19,9 @@ Peking University
 
 The paper studies a Lipschitz-weighted Wasserstein error bound for multi-step consistency sampling and derives conditional step-count approximations. Its experiments examine whether practical samplers exhibit an intermediate-step quality basin followed by degradation.
 
-This repository provides:
+This repository provides sampling, evaluation, and diagnostic code for the LSUN Bedroom-256 and ImageNet-64 experiments reported in the paper.
+
+Included resources:
 
 - Sampling and evaluation scripts for LSUN Bedroom-256 and class-conditional ImageNet-64.
 - Official OpenAI FID evaluation, projected-feature paired bootstrap, pixel-space sliced-W2, and local Jacobian diagnostics.

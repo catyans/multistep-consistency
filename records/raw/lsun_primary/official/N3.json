@@ -1,0 +1,9 @@
+{
+  "reference_stats": "archived-path/VIRTUAL_lsun_bedroom256_stats.npz",
+  "samples": "archived-path/N3.npz",
+  "num_samples": 10000,
+  "inception_score": 2.1254703998565674,
+  "fid": 7.776453962331402,
+  "sfid": 24.005093856605185,
+  "evaluator": "openai/guided-diffusion"
+}

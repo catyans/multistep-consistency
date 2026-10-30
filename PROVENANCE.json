@@ -1,0 +1,350 @@
+{
+  "records/raw/lsun_primary/samples/N1.json": {
+    "source": "rebuttal-remote-archive/results/primary_10k/samples/N1.json",
+    "source_sha256": "53d53383b7428e2760cf6c19b4f163af1d38f8a3cbea6c64ae56fbb64907b321",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/official/N1.json": {
+    "source": "rebuttal-remote-archive/results/metrics/official/N1.json",
+    "source_sha256": "f8f21d96b86bc404aca30a89b66f09469e6977d2ef5cfc35fc19931093fa8949",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/samples/N2.json": {
+    "source": "rebuttal-remote-archive/results/primary_10k/samples/N2.json",
+    "source_sha256": "a075059acdc81fd21ede0865c5a1caf4200052e0d36b3f59c041f32f26ef01df",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/official/N2.json": {
+    "source": "rebuttal-remote-archive/results/metrics/official/N2.json",
+    "source_sha256": "14bda1d320d0140b3c1ffcf55c6571f6a74c1763f78885f1bf10e885f706b46c",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/samples/N3.json": {
+    "source": "rebuttal-remote-archive/results/primary_10k/samples/N3.json",
+    "source_sha256": "d82ee3b9bf0df9e451e0adeb54fe1f405076bf05f80d04334df5f3776335561d",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/official/N3.json": {
+    "source": "rebuttal-remote-archive/results/metrics/official/N3.json",
+    "source_sha256": "cf029e6176fc7fd226c4b79d06701795923b32321b783bbabd0f18d64daef539",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/samples/N4.json": {
+    "source": "rebuttal-remote-archive/results/primary_10k/samples/N4.json",
+    "source_sha256": "9e640a195e993cac67e7a7c7202b8e25cd4c8e9bb9351f9a5673f74c19cd1a3d",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/official/N4.json": {
+    "source": "rebuttal-remote-archive/results/metrics/official/N4.json",
+    "source_sha256": "086bf88d157697ec75e6bf42c27180079d2267dd8ad4c1a0c85fa025a1c490b1",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/samples/N6.json": {
+    "source": "rebuttal-remote-archive/results/primary_10k/samples/N6.json",
+    "source_sha256": "f2703c4b35bb2c54efee4c316a28ae20e3c870b017e1a6db87252adc48bcd29c",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/official/N6.json": {
+    "source": "rebuttal-remote-archive/results/metrics/official/N6.json",
+    "source_sha256": "601f75605f7223f236f18fdc16aea6e276698aea867f8ec1d92b9a1f7c7cb5c0",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/samples/N8.json": {
+    "source": "rebuttal-remote-archive/results/primary_10k/samples/N8.json",
+    "source_sha256": "e401079dbddff2d4ccfe16cbda061c43e937dbb8cb34accd48567cb7b42aee6b",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/official/N8.json": {
+    "source": "rebuttal-remote-archive/results/metrics/official/N8.json",
+    "source_sha256": "5cd1c2a820e746adcfda89673da83089bdedf24ae2adf2a9f02998fb8c7d2c94",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/samples/N10.json": {
+    "source": "rebuttal-remote-archive/results/primary_10k/samples/N10.json",
+    "source_sha256": "e2359dd5244eb75f75a3a8a87f0f23b84ff57de682f96cbcd20ffb18007a6547",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/official/N10.json": {
+    "source": "rebuttal-remote-archive/results/metrics/official/N10.json",
+    "source_sha256": "ae02fa4fb8ea55e96d9c91d85c133dbc91021a194799eab23f09edb891bae18a",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/samples/N20.json": {
+    "source": "rebuttal-remote-archive/results/primary_10k/samples/N20.json",
+    "source_sha256": "712c077b554adc13cbba67f723ce95528096a569b86b4bf636fbeaaff2a0e030",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_primary/official/N20.json": {
+    "source": "rebuttal-remote-archive/results/metrics/official/N20.json",
+    "source_sha256": "08c8d1c328b58572a37f5a9686c153aa40951a843d4dae2a83007cadd2e49758",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/samples/N1.json": {
+    "source": "rebuttal-remote-archive/results/replicate_seed20260725_5k/samples/N1.json",
+    "source_sha256": "b33fb6b2e4583d8cfa67953e95f9be162d207da7e149695533f91f30576d2d77",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/official/N1.json": {
+    "source": "rebuttal-remote-archive/results/metrics/replicate/official/N1.json",
+    "source_sha256": "7a203ea5713ab9c570ec0f3c1784a15d894507f0f98f9fe1da9e47eccf885023",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/samples/N2.json": {
+    "source": "rebuttal-remote-archive/results/replicate_seed20260725_5k/samples/N2.json",
+    "source_sha256": "de2b84acc4af901cd9fd7627b3bc54716eaf6e4a5745d13a2d478b6a2e0e748a",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/official/N2.json": {
+    "source": "rebuttal-remote-archive/results/metrics/replicate/official/N2.json",
+    "source_sha256": "0f528ddf4fb4b253ac471d96a0035a52af02c1a0a67e86d066557bb23c9bd134",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/samples/N3.json": {
+    "source": "rebuttal-remote-archive/results/replicate_seed20260725_5k/samples/N3.json",
+    "source_sha256": "be52b3d567dcf6a946985618fb890b952cc726cfa2e636f8ba4bc7f0478b9372",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/official/N3.json": {
+    "source": "rebuttal-remote-archive/results/metrics/replicate/official/N3.json",
+    "source_sha256": "919a56c0d59e4cfbb14ac8d3969db3771c745bb3f43b80f0a7514cfd7370ecb7",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/samples/N4.json": {
+    "source": "rebuttal-remote-archive/results/replicate_seed20260725_5k/samples/N4.json",
+    "source_sha256": "43414e2dac99cba4f8b53609e444ba6ac71e0baa5d2ebe2af35419148a092cde",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/official/N4.json": {
+    "source": "rebuttal-remote-archive/results/metrics/replicate/official/N4.json",
+    "source_sha256": "0771b7144b62de309bd87172d98ac899a41a3f5a6f84d6d5001c8d2f4c2552a5",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/samples/N6.json": {
+    "source": "rebuttal-remote-archive/results/replicate_seed20260725_5k/samples/N6.json",
+    "source_sha256": "d1ef92068147fe81b1d1e3460a3cf08687ffe4652341e6a1d6377c13ed7a54c6",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/official/N6.json": {
+    "source": "rebuttal-remote-archive/results/metrics/replicate/official/N6.json",
+    "source_sha256": "df5cbcc35426629381234399543e1c9fdc418f427706da338835e8d75b9b9e14",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/samples/N8.json": {
+    "source": "rebuttal-remote-archive/results/replicate_seed20260725_5k/samples/N8.json",
+    "source_sha256": "b55b552ab609cb6bb50fc49984757df23c23ab2b2ed5c62f296dd3aaba2de4d9",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/official/N8.json": {
+    "source": "rebuttal-remote-archive/results/metrics/replicate/official/N8.json",
+    "source_sha256": "b316362e5d065d6b3a304fe179f312c5ec28e411ac5ee9f52e58e838e9de5c4a",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/samples/N10.json": {
+    "source": "rebuttal-remote-archive/results/replicate_seed20260725_5k/samples/N10.json",
+    "source_sha256": "2f99fd19ff6e5e6beed9d75ff4ef01637e052a7561a86e76c587a8cc2a3b4c3f",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/official/N10.json": {
+    "source": "rebuttal-remote-archive/results/metrics/replicate/official/N10.json",
+    "source_sha256": "89f714f66c1afcb22fc6ba63f13d90d2909a5e0b3751d867ff371589cf4a66f6",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/samples/N20.json": {
+    "source": "rebuttal-remote-archive/results/replicate_seed20260725_5k/samples/N20.json",
+    "source_sha256": "da6b6eee7f71a3d2f5fa749d6552478b431b6e7fe7d3352649fc96e22edc4a00",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/lsun_replicate/official/N20.json": {
+    "source": "rebuttal-remote-archive/results/metrics/replicate/official/N20.json",
+    "source_sha256": "d907e9393b52c27c77cb26b19f6d72a53e33b828a8b3c8c5dfe041171de58224",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N1.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N1.json",
+    "source_sha256": "ab9f58afde9302e40d0e33d5708e55568059513afd470a2d3841e81135a251ea",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N1.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N1.json",
+    "source_sha256": "306bdfb6b3fe4007930ee1c59620baca2c5f5c37ba87baa845ac090794b1a77d",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N2.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N2.json",
+    "source_sha256": "b2cd3fab6b9ec31d52abf3406a6cd2a70e879b1ca2ef2556f02640c8f0c4ea6e",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N2.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N2.json",
+    "source_sha256": "456c907f0b07ae46dca9d53733331bc49808fb5ae32e12529f34dbab93165df6",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N3.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N3.json",
+    "source_sha256": "6c61ee9ddcb0bf14bbaef8dd989256f76d502b4b2846367ae9e5039aedfa9461",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N3.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N3.json",
+    "source_sha256": "f446db699b8636aa1af3890c26e7671496f566a910db7ff27f576baeecb53c17",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N4.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N4.json",
+    "source_sha256": "c0277583f4dac6695b69990c61362685db67bef5c6c1cf120a815429e4e8b2a2",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N4.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N4.json",
+    "source_sha256": "96acb3a335bfdb2cd99a65ece49ee29c98baae02c8c9d860b8aabf29f3b21d72",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N6.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N6.json",
+    "source_sha256": "cf803e7061d45ca20f801bdb7f6efdf1f1ae950e8ddccfc2bff7311638b29aaf",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N6.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N6.json",
+    "source_sha256": "79f28582acd6ea5c3e583672d48f0c990933046bf91cfbbafd301b8dc2bc55d6",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N8.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N8.json",
+    "source_sha256": "8fe16a631a2b0c0a5039307cbfc7f37239c541fc3d700ed5a9e02d881ed84428",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N8.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N8.json",
+    "source_sha256": "a46bcad11fd63c367993dc1b7bd9318df7029408dcaf35e2de9d394efe29a3d0",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N10.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N10.json",
+    "source_sha256": "e8f6e19e2ca573423f6bfa472f5c83edc87247881029f40fd13441a78789cee3",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N10.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N10.json",
+    "source_sha256": "19cdca33ddab1ad47fd92a0148633807a852a9aae5c97e7abc5a1202b753f5e1",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N20.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N20.json",
+    "source_sha256": "28be18164a3fb82c4eddffef7f12262cfcda7b95b5ba58bc137a46d18a023bea",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N20.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N20.json",
+    "source_sha256": "8beb0e3bd4f81220060d1078be1c7450c341a57ed527dfe401dc06ac6fa7209a",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N30.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N30.json",
+    "source_sha256": "3b061eef0979e5f20bbef624983d13401cfe2b7d6d1605f65e51ca8fea27ea81",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N30.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N30.json",
+    "source_sha256": "4e27ab2f7f2fb2e96347ee2135be178d2851d04ed94c4e49c2ac2ba5fc1888bc",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/samples/N40.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/primary_10k/samples/N40.json",
+    "source_sha256": "808a7be77e1461f857478ccbfee9c7cf725bc66d66312cc6a862ca54593ec635",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/raw/imagenet64/official/N40.json": {
+    "source": "rebuttal-remote-archive/results/imagenet64/metrics/official/N40.json",
+    "source_sha256": "cb496c161230dbd97aceba2b8144306ae45d29e45a5634fe5822a998b675f7df",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/lsun_primary_pixel_sliced_w2.json": {
+    "source": "camera-ready/evidence/lsun_primary_pixel_sliced_w2.json",
+    "source_sha256": "a772bf0cefb3dcf3306054303417b48ad18aa180c436127eac1803d844be1b00",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "records/jacobian_fp32.json": {
+    "source": "rebuttal-remote-archive/results/diagnostics/local_jacobian_power_steps8_fp32.json",
+    "source_sha256": "13a81bb67505563eb5afb7dc47d7eaadad1e572df4af6a890876dd4d812818cf",
+    "change": "JSON formatting and private absolute-path redaction only"
+  },
+  "eval/generate_npz.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/eval/generate_npz.py",
+    "source_sha256": "28aac8746de2f96b640b7ebbf263aba488b2ef043a63093a61f1713f22708a3d",
+    "change": "Optional HF revision argument added; numerical algorithm unchanged"
+  },
+  "eval/official_fid.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/eval/official_fid.py",
+    "source_sha256": "ff29aca4c9010e5e24c9ad29e445737f0bf7ca790c212fc674e6b84f036e1904",
+    "change": "Unchanged copy"
+  },
+  "eval/official_reference_stats.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/eval/official_reference_stats.py",
+    "source_sha256": "288e4c680a2bdf69af85e0629da1d6187a75c607171705c75ab2eb913095fadb",
+    "change": "Unchanged copy"
+  },
+  "eval/feature_metrics.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/eval/feature_metrics.py",
+    "source_sha256": "cc805140a3711e8d5c7df78e17de23461c76120f6091fc5a92b5eaf34cac2b82",
+    "change": "Unchanged copy"
+  },
+  "eval/paired_bootstrap.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/eval/paired_bootstrap.py",
+    "source_sha256": "27adb23c5232e35d10988e0903409b8de71167c65974f8b0dc3d2bb5af475b85",
+    "change": "Unchanged copy"
+  },
+  "eval/pixel_sliced_w2.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/eval/pixel_sliced_w2.py",
+    "source_sha256": "61ef9c92401ffadb92418ae43e6586599fdef6e876f474306e115aae8f3d6cbd",
+    "change": "Unchanged copy"
+  },
+  "eval/local_jacobian_power.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/eval/local_jacobian_power.py",
+    "source_sha256": "3de8323e70c8c3b5865655fd52a324fc83f6079aac6d2beb2f34ea1f0798ee50",
+    "change": "Reject unsupported class-conditioned inputs; numerical algorithm unchanged"
+  },
+  "eval/transition_diagnostics.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/eval/transition_diagnostics.py",
+    "source_sha256": "ecb449bc13ee7884a6c9ad57f2b9522d606b2e5e4e043cc5ede7b4dcbef32602",
+    "change": "Unchanged copy"
+  },
+  "third_party/guided_diffusion/evaluator.py": {
+    "source": "rebuttal-remote-archive/multistep-consistency-release/third_party/guided-diffusion/evaluations/evaluator.py",
+    "source_sha256": "c8f10ab1406c45d105d7f5b347e5be06c118bd2ddef1c54789c263ebae7f1ca7",
+    "change": "Unchanged copy"
+  },
+  "assets/lsun_fixed_seed_N1.png": {
+    "source": "camera-ready/paper/figures/lsun_fixed_seed_N1.png",
+    "source_sha256": "1d17e4c4e21e3951f03da87e065be6af875d503da9e1065402a2542bc14e9ed6",
+    "change": "Unchanged copy"
+  },
+  "assets/lsun_fixed_seed_N2.png": {
+    "source": "camera-ready/paper/figures/lsun_fixed_seed_N2.png",
+    "source_sha256": "1166585a51dad4e39793157e42d5d33018efde191d108d8a0e8e05db53e12d0a",
+    "change": "Unchanged copy"
+  },
+  "assets/lsun_fixed_seed_N6.png": {
+    "source": "camera-ready/paper/figures/lsun_fixed_seed_N6.png",
+    "source_sha256": "1fc6fe7c3da6b3c9a545cf2fb1ca56c9838e89f6b08e90b89aa16e3eb4d17321",
+    "change": "Unchanged copy"
+  },
+  "assets/lsun_fixed_seed_N20.png": {
+    "source": "camera-ready/paper/figures/lsun_fixed_seed_N20.png",
+    "source_sha256": "176241e4ce6d716b058a01666211838a204e6dad260ac2d5b534104b8a80e492",
+    "change": "Unchanged copy"
+  },
+  "assets/method_overview.png": {
+    "source": "camera-ready/paper/main.pdf",
+    "source_sha256": "c8a5ec0420f557d75601cb96ecd551d54c5feafcb08c45267f83b781c3ccedb4",
+    "change": "Page 2 diagram rendered at 4x; clip rectangle [108, 292, 505, 366] PDF points"
+  },
+  "assets/cross_model_step_sweep.png": {
+    "source": "records/lsun_replicate_metrics.csv and records/imagenet64_metrics.csv",
+    "change": "Regenerated by plot_records.py; original numerical values, presentation labels clarified"
+  },
+  "assets/cross_model_step_sweep.svg": {
+    "source": "records/lsun_replicate_metrics.csv and records/imagenet64_metrics.csv",
+    "change": "Regenerated by plot_records.py; original numerical values, presentation labels clarified"
+  }
+}

@@ -1,0 +1,7 @@
+# Separate CPU evaluator environment avoids TensorFlow/PyTorch CUDA conflicts.
+# Compatibility range, not the unknown original experiment environment.
+numpy>=1.24,<2
+scipy>=1.10,<1.16
+tensorflow>=2.12,<2.16
+requests
+tqdm

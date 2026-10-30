@@ -1,0 +1,20 @@
+{
+  "model": "openai/diffusers-cd_imagenet64_lpips",
+  "steps": 40,
+  "num_samples": 10000,
+  "batch_size": 128,
+  "seed": 20260726,
+  "dtype": "float16",
+  "device": "cuda",
+  "shape": [
+    10000,
+    64,
+    64,
+    3
+  ],
+  "class_conditioning": "deterministic_uniform",
+  "class_label": null,
+  "elapsed_seconds": 493.95,
+  "output": "archived-path/N40.npz",
+  "grid_output": "archived-path/N40.png"
+}

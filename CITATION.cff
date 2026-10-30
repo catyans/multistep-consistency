@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these experimental artifacts, please cite the accompanying paper."
+title: "Multi-step Consistency Models: A Complete Error Theory and Optimal Step Selection"
+type: software
+license: MIT
+repository-code: "https://github.com/catyans/multistep-consistency"
+authors:
+  - family-names: Wang
+    given-names: Yanshu
+    affiliation: Peking University
+  - family-names: Liu
+    given-names: Rui
+    affiliation: Peking University
+  - family-names: Yang
+    given-names: Tong
+    affiliation: Peking University
+preferred-citation:
+  type: conference-paper
+  title: "Multi-step Consistency Models: A Complete Error Theory and Optimal Step Selection"
+  authors:
+    - family-names: Wang
+      given-names: Yanshu
+    - family-names: Liu
+      given-names: Rui
+    - family-names: Yang
+      given-names: Tong
+  collection-title: "Advances in Neural Information Processing Systems"
+  year: 2026

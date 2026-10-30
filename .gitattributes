@@ -1,0 +1,2 @@
+# Preserve bytes used by the checked-in checksum manifest across platforms.
+* -text

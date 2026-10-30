@@ -1,0 +1,18 @@
+{
+  "model": "openai/diffusers-cd_bedroom256_lpips",
+  "steps": 2,
+  "num_samples": 10000,
+  "batch_size": 64,
+  "seed": 20260724,
+  "dtype": "float16",
+  "device": "cuda",
+  "shape": [
+    10000,
+    256,
+    256,
+    3
+  ],
+  "elapsed_seconds": 261.066,
+  "output": "archived-path/N2.npz",
+  "grid_output": "archived-path/N2.png"
+}

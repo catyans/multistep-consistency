@@ -1,0 +1,9 @@
+{
+  "reference_stats": "archived-path/VIRTUAL_imagenet64_labeled.npz",
+  "samples": "archived-path/N1.npz",
+  "num_samples": 10000,
+  "inception_score": 39.50599670410156,
+  "fid": 9.244137396315182,
+  "sfid": 16.552029626330636,
+  "evaluator": "openai/guided-diffusion"
+}

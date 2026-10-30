@@ -1,0 +1,11 @@
+# Compatibility constraints, NOT a recovered historical lockfile.
+# Use a Linux CUDA environment and Python 3.10/3.11 for GPU reruns.
+numpy>=1.24,<2
+scipy>=1.10,<1.16
+torch>=2.0
+torchvision>=0.15
+diffusers>=0.30
+huggingface-hub>=0.20
+pytorch-fid==0.3.0
+Pillow
+tqdm

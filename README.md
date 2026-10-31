@@ -7,7 +7,9 @@
 **Yanshu Wang · Rui Liu · Tong Yang**  
 Peking University
 
-[Overview](#overview) · [Results](#results) · [Quick start](#quick-start) · [Reproduction guide](REPRODUCIBILITY.md) · [Validation](VALIDATION.md) · [Citation](#citation)
+[Paper (PDF)](paper/multistep-consistency-camera-ready.pdf) · [Overview](#overview) · [Results](#results) · [Quick start](#quick-start) · [Reproduction guide](REPRODUCIBILITY.md) · [Validation](VALIDATION.md) · [Citation](#citation)
+
+The [author-provided camera-ready manuscript](paper/multistep-consistency-camera-ready.pdf) includes the appendix and paper checklist. This copy is hosted by the authors; it is not an official proceedings landing page. See [manuscript version and license](paper/README.md).
 
 **How many sampling steps should a consistency model use?** More steps can initially improve generation quality, yet further steps may accumulate error and reduce quality. This repository accompanies our analysis of multi-step error propagation and model-specific step-count calibration.
 
@@ -126,6 +128,8 @@ VALIDATION.md                  Tests performed and remaining gaps
 ```
 
 ## License and acknowledgments
+
+The manuscript in `paper/` is separate from the software license and is provided under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), as listed on the paper's OpenReview submission. See [paper attribution](paper/README.md). The MIT license below applies to the code, not the manuscript.
 
 Our experiment code and repository helper scripts are released under the [MIT license](LICENSE), copyright 2026 Yanshu Wang, Rui Liu, and Tong Yang. Retain the copyright and permission notice when redistributing the software. If you use this work in research, please cite the paper above.
 
